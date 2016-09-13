@@ -1,5 +1,5 @@
 {
-  "name": "tslint@next-loader",
+  "name": "tslint-next-loader",
   "version": "2.1.5",
   "description": "tslint loader for webpack",
   "main": "index.js",
